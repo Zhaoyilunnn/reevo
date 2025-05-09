@@ -1,0 +1,1 @@
+The `synthesis` function takes as input a unitary matrix, and returns a OpenQASM program that implements the unitary matrix as a quantum circuit. The return is a string containing the OpenQASM code.
