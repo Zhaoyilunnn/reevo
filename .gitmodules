@@ -1,0 +1,3 @@
+[submodule "reevo_qad"]
+	path = reevo_qad
+	url = https://github.com/Zhaoyilunnn/reevo_qad.git
